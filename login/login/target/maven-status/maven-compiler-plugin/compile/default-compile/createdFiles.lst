@@ -1,0 +1,6 @@
+com\kingMachine\repository\EmployeeRepository.class
+com\kingMachine\entity\Employees.class
+com\kingMachine\login\LoginApplication.class
+com\kingMachine\controller\EmployeeController.class
+com\kingMachine\repository\ClockInRepository.class
+com\kingMachine\config\applicationConfig.class
